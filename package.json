@@ -1,0 +1,22 @@
+{
+  "name": "report",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "got": "^11.8.0",
+    "node-fetch": "^2.6.1",
+    "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/tough-cookie": "^4.0.0",
+    "@types/node-fetch": "^2.5.7"
+
+  }
+}
